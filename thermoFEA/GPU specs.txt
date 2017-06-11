@@ -1,0 +1,21 @@
+Vendor: Intel(R) Corporation
+Version: OpenCL 1.2
+Name: Intel(R) HD Graphics 4400
+bits: 64
+global cache size: 2097152
+global mem size: 1870659584
+local mem size: 65536
+freq: 400 MHz
+max cores: 20
+const kernel args: 8
+mem obj alloc: 467664896
+max kernel arg size: 1024
+group size: 512
+max item dim: 3
+work item: 512
+device type: 4
+
+19.796 s
+20.408 s
+19.278 s
+
