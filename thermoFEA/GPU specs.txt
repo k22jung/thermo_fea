@@ -15,7 +15,5 @@ max item dim: 3
 work item: 512
 device type: 4
 
-19.796 s
-20.408 s
-19.278 s
+Compute Time: 1.862s
 
