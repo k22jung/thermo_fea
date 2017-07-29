@@ -10,10 +10,10 @@
 const int m = 100;
 const int n = 100;
 const float init_t = 0;
-const float top_t = 100;
+const float top_t = 0;
 const float left_t = 0;
 const float right_t = 100;
-const float bot_t = 0;
+const float bot_t = 100;
 const char top = 'c';
 const char bot = 'c';
 const char left = 'c';

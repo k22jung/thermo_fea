@@ -14,6 +14,3 @@ group size: 512
 max item dim: 3
 work item: 512
 device type: 4
-
-Compute Time: 1.862s
-

@@ -232,6 +232,7 @@ int main() {
 	cl_int err;
 	int c = 0;
 
+	cout << "\nBegin computing...\n" << endl;
 	for (int i=0; i < iterations; ++i){
 
 		// ~~~~~~~~~~~~ Enqueue computation commands ~~~~~~~~~~~~
