@@ -1,4 +1,4 @@
-# Project Title
+# Thermo GPU
 
 **Thermo GPU** is another small project I completed which utilizes a computer's GPU to parallelize computation for a large thermodynamic Finite Element Methods problem, consisting of thousands of nodes. 
 
@@ -15,6 +15,3 @@ To visualize the output from the OpenCL project, I wrote a MATLAB script to outp
 ## Dependencies
 
 - [Intel's OpenCL 1.2](https://software.intel.com/en-us/intel-opencl)
-- 
-
-## Running
