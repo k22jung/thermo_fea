@@ -1,3 +1,8 @@
+/*
+* Kenneth Jung
+* Mechatronics Engineering
+* k22jung@edu.uwaterloo.ca
+*/
 #define CL_USE_DEPRECATED_OPENCL_2_0_APIS
 #include <iostream>
 #include <CL\cl.hpp>
