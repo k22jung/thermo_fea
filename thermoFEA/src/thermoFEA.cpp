@@ -57,7 +57,7 @@ const cl_float Density = 2720;
 const cl_float Cspec = 921.096;
 const cl_float C = Density*Cspec;
 
-const char dirOut[] = "C:\\Users\\Kenny\\Desktop\\Side Projects\\Current Projects\\thermoGPU\\thermoDisplay\\output.txt";
+const char dirOut[] = "<directory>\\output.txt";
 const char kernelName[] = "thermoNode.cl";
 
 bool stability_check (double stability, const cl_float dt, int totalCnodes){
